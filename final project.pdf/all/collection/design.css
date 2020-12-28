@@ -1,0 +1,180 @@
+body{
+	background-color: #4E5968;
+	color: #F7F700;
+	text-align: center;
+	 
+}
+.homebtn{
+	margin-left: 1100px;
+}
+.hclr{
+	
+	font-size: 50px;
+	font-style: oblique;
+	padding-top: 8px;
+}
+.velvet{
+	margin-left: 120px;
+}
+.register{
+	background-color: violet;
+}
+.signin{
+	background-image: url('https://cdn.hipwallpaper.com/i/4/51/EcuADU.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+  	color: #4E5968;
+  	float: left;
+  	margin-top: 100px;
+  	margin-left: 60px;
+}
+.cart{
+	font-size: 40px;
+	margin-right: 1300px;
+	border-radius: 25%;
+	color: navy;
+	margin-top: 10px;
+}
+.cart1:hover{
+	background-color: #6699CC;
+}
+.ctitle{
+	color: #800020
+}
+.cdetails{
+	color: #FF00FF
+}
+.order{
+	margin-left: 120px;
+}
+.vanilla{
+	margin-left: 200px;
+	font-family: italic;
+	text-align: left;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: maroon;
+	margin-top: 35px;
+}
+.mb-6{
+	height: 120px;
+}
+.dist{
+	margin-bottom: 30px;
+}
+.birth{
+	font-size: 18px;
+	color: #FF00FF;
+}
+.hed{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.hod{
+	margin-top: 25px;
+}
+.noti{
+	font-size: 40px;
+	margin-right: 1200px;
+	border-radius: 25%;
+	color: navy;
+	margin-top: -60px;
+	margin-left: 25px;
+}
+.done{
+	margin-bottom: 30px;
+}
+.ord{
+	margin-top: 30px;
+}
+.zoom:hover {
+  transform: scale(1.05);
+}
+.betw{
+	margin-right: 190px;
+	margin-top: 50px;
+}
+.betw1{
+	margin-top: 200px;
+}
+.fb{
+	margin-right: 30px;
+}
+.smar{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.frst{
+	background-color: maroon;
+	border-radius: 5%;
+	height: 80px;
+}
+.last{
+	margin-bottom: 20px;
+}
+.gap{
+	margin-bottom: 50px;
+	margin-top: 10px;
+}
+.full{
+	background-image: url('https://wallpaperaccess.com/full/986781.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+  	color: #4E5968;
+}
+.reg{
+	margin-top: 20px;
+	margin-left: 70px;
+	border-radius: 15%;
+}
+.left{
+	float: left;
+	margin-left:120px;
+	margin-top: 50px;
+	
+}
+.lname{
+	margin-left: 25px;
+
+}
+.mai{
+	margin-top: 20px;
+}
+.reg1{
+	margin-bottom: 30px;
+}
+.suss{
+	margin-bottom: 40px;
+	margin-top: -20px;
+}
+.lgn{
+	margin-bottom: 25px;
+}
+.about{
+	background-color: #4E5968;
+}
+.odr{
+	margin-top: 200px;
+}
+.dlvr{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.gap{
+	margin-bottom: 30px;
+}
+.back{
+	float: left;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.dash{
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.deliv{
+	margin-top: 10px;
+}
